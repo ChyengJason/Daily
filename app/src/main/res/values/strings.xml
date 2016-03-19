@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Daily</string>
+    <string name="splash_app_name">\@Daily</string>
+    <string name="Email">1736970762@qq.com</string>
+    <string name="Github">github.com/ChyengJason</string>
+    <string name="action_new">更新</string>
+    <string name="action_settings">设置</string>
+    <string name="action_add">添加</string>
+    <string name="action_about">关于</string>
+    <string name="action_login">登录</string>
+    <string name="action_update">更新</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="blank">""</string>
+    <!-- Strings related to login -->
+    <string name="remember_pwd">记住密码</string>
+    <string name="prompt_email">账户</string>
+    <string name="prompt_password">密码(optional)</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <!-- Strings related to update -->
+    <string name="update_address">http://www.jscheng.cn:9090/version.xml</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_update">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="cancel">取消</string>
+
+    <string name="change_first_pic">更改首页图片</string>
+    <string name="select_pic_from_photo">从相册中选择图片?</string>
+    <string name="confirm">确定</string>
+
+    <!-- Strings related to about -->
+    <string name="all_rights_reserve">版权所有 \n All Rights Reserved</string>
+    <string-array name="about_array">
+        <item> 邮箱 </item>
+        <item> github </item>
+        <item> 分享 </item>
+        <item> 更新 </item>
+    </string-array>
+
+    <string-array name="planets_array_first">
+        <item> 首页 </item>
+        <item> 说明 </item>
+        <item> 设置 </item>
+        <item> 切换主题 </item>
+    </string-array>
+
+    <string-array name="planets_array_second">
+        <item> 反馈 </item>
+        <item> 退出 </item>
+    </string-array>
+
+    <!-- Strings related to daily -->
+    <string name="action_cancel_to_top">取消置顶</string>
+    <string name="action_set_to_top">置顶</string>
+    <string name="action_edit">编辑</string>
+    <string name="action_remove">删除</string>
+    <string name="action_remind">提醒</string>
+    <string name="action_pic">转为图片</string>
+    <string name="action_share">分享</string>
+    <string name="action_change_word_color">字体颜色</string>
+    <string name="action_finish">完成</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_change_background">从相册选择壁纸</string>
+    <string name="action_delete_background">删除壁纸</string>
+
+    <string name="title">标题</string>
+    <string name="note_content">笔记内容</string>
+    <string name="just_now">刚刚</string>
+    <string name="before_half_hour">半个小时之前</string>
+    <string name="default_label">无标题</string>
+    <string name="warn_title_is_null">标题不许为空</string>
+    <string name="apply_as_all_background">日志背景</string>
+    <string name="can_apply_as_all_background">应用至所有日志背景?</string>
+    <string name="use_as_all_backgourd">应用所有</string>
+    <string name="use_as_special_backgourd">否</string>
+
+    <string name="setting">设置</string>
+    <string name="basic_setting">基本设置</string>
+    <string name="show_first_pic">查看首页图片</string>
+    <string name="first_pic">出场动画</string>
+    <string name="download_pic">download_pic</string>
+    <string name="load_pic">自动加载出场图片</string>
+    <string name="no_load_pic">不加载出场图片</string>
+    <string name="clear_all_bg">clear_all_bg</string>
+    <string name="clear_all_background">清除所有背景</string>
+    <string name="clear_all_dt">clear_all_bg</string>
+    <string name="clear_all_data">清除所有文件</string>
+    <string name="change_theme">change_theme</string>
+    <string name="change_theme_string">切换主题</string>
+</resources>

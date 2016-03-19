@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/cheng/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.2/b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd/httpcore-4.4.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8e98ae35bf6e3f14382deb60f2ea6e4e0e220fd">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/httpcore-4.4.2_75048316851e5477c2610573ec349ebe8a0d98f5.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.turki-alkhateeb/materialcolorpicker/1.0.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e37a2594216128d832dd2645be83fde08c534d6f">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.turki-alkhateeb-materialcolorpicker-1.0.7_6999ad650f573d8b2371bb082ec0517b3bc0137a.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-23.1.1_943da53fc33faef23374f4a89cb8d31fde755cf1.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.0_4cfd77612f3e06ceaf3654a29967ae7abcd8c77a.jar" />
+    </item>
+    <item
+        jar="/home/cheng/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4_2d85c6a5e132e3fa9c66c4fdf5ac038218fce527.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.rengwuxian.materialedittext-library-2.1.4_8f8bf7d692739a37e26cbdde946bf21f08faff47.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.jenzz/materialpreference/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d1bbd17cf3b4c1ada9065abca969c325ac221c6">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.jenzz-materialpreference-1.3_441d2dbc7da485e0773c6df4ba864dbf5fea4615.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.0_53f1314e045142684850b69be7b162a38d0da435.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_9d82f4e105d75187836b59cb520365abd47aac52.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_5122d0b8d956f1952d1c303797a1454ba708c9f1.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_6308ca47af0c5fab90abe0593ac79e62c05516c7.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_8f8dbbb0fb98353ff15e628e5d0c6c68e4505466.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e79701ed34126d644387847d96e96e66b34e18b7">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/me.drakeet.materialdialog-library-1.3.0_4316ab2fbb0627481eae6c45a4fffa3ced820f57.jar" />
+    </item>
+    <item
+        jar="/home/cheng/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8_b15d37fd53a85e3509b423e74991e71d1ba99a84.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_5d4b2b99aa1c62fa60cb05cb2d00c804817d0246.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81792ae4110b47cc533330f326086d0a4d932582">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.kyleduo.switchbutton-library-1.3.4_4bf9dde66e6eb2d703bf6655a99c96129a0fa28f.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/DailyApplication/ptr-lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8d359a4aac86106f0e5f314efea62794ef24879">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/DailyApplication-ptr-lib-unspecified_fa4c60849a2463415550bb4b92b1d7733041a261.jar" />
+    </item>
+    <item
+        jar="/home/cheng/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/library-2.4.0_4fa7c51c9ca22be009b2c9be02cd3fbcf1307994.jar" />
+    </item>
+    <item
+        jar="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/cheng/program/program/code/androidProject/DailyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_53bf5ed1ca59867bcf50cf4dd6b9f5bf467fdb9d.jar" />
+    </item>
+
+</items>

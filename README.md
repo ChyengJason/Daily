@@ -17,3 +17,7 @@
 * 反馈功能
 * 云备份
 * 以及其他一些
+
+![image](https://github.com/ChyengJason/Daily/picture/pic1.jpg)
+![image](https://github.com/ChyengJason/Daily/picture/pic2.jpg)
+![image](https://github.com/ChyengJason/Daily/picture/pic3.jpg)

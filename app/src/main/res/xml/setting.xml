@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.jenzz.materialpreference.PreferenceCategory
+        android:title="@string/basic_setting">
+
+        <com.jenzz.materialpreference.CheckBoxPreference
+            android:key ="@string/download_pic"
+            android:title="@string/first_pic"
+            android:summaryOn="@string/load_pic"
+            android:summaryOff="@string/no_load_pic" />
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/clear_all_bg"
+            android:title="@string/clear_all_background"/>
+
+        <com.jenzz.materialpreference.Preference
+            android:key="@string/change_theme"
+            android:title="@string/change_theme_string"/>
+    </com.jenzz.materialpreference.PreferenceCategory>
+
+</PreferenceScreen>

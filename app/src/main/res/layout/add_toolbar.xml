@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.AppBarLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/add_toolbar"
+        android:layout_width="match_parent"
+        android:title="@string/title_activity_login"
+        android:layout_height="50dip"
+        android:background="?attr/colorPrimary"
+        app:navigationIcon="@mipmap/done_0"
+        app:theme="@style/ToolbarTheme"/>
+
+</android.support.design.widget.AppBarLayout>

@@ -1,0 +1,234 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppBaseTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/blue</item>
+
+        <item name="android:colorActivatedHighlight">@color/hint</item>
+        <item name="android:colorControlHighlight"
+            tools:targetApi="lollipop">@color/hint</item>
+        <item name="android:color">@color/text_color_primary</item>
+        <item name="android:colorEdgeEffect"
+            tools:targetApi="lollipop">@color/text_color_primary</item>
+        <item name="android:colorFocusedHighlight">@color/text_color_primary</item>
+
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+        <item name="android:textColorSecondary">@color/hint</item>
+        <item name="android:windowBackground">@color/background_primary_1</item>
+        <item name="popupTheme">@style/AppDarkTheme</item>
+        <item name="popupMenuStyle">@style/popupMenuStyle</item>
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextView</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="spinBars">false</item>
+
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="ToolbarTheme" parent="AppBaseTheme">
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="colorControlActivated">@android:color/white</item>
+    </style>
+
+    <style name="AppDarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="popupMenuStyle" parent="Base.Widget.AppCompat.PopupMenu.Overflow">
+    </style>
+
+    <style name="AppBaseTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="spinBars">false</item>
+    </style>
+
+    <style name="AutoCompleteTextView" parent="Widget.AppCompat.AutoCompleteTextView">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:background">@null</item>
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+    </style>
+
+    <style name="EditTextTheme">
+        <item name="android:textSize">@dimen/abc_text_size_medium_material</item>
+        <item name="android:textColor">@android:color/black</item>
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="StyleTitleText">
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">2dp</item>
+        <item name="android:textColor">#444444</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="SwitchButtonStyle">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="SwitchButtonStyleMD" parent="SwitchButtonMD">
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+
+    <style name="shareDialogTheme" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 背景有灰度 -->
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+
+    <style name="RedTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryDark">@color/dark_red</item>
+        <item name="colorAccent">@color/accent_red</item>
+    </style>
+
+    <style name="PinkTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/dark_pink</item>
+        <item name="colorAccent">@color/accent_pink</item>
+    </style>
+
+    <style name="PurpleTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Purple</item>
+        <item name="colorPrimaryDark">@color/Purple</item>
+        <item name="colorAccent">@color/Purple</item>
+    </style>
+
+    <style name="DeepPurpleTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/DeepPurple</item>
+        <item name="colorPrimaryDark">@color/DeepPurple</item>
+        <item name="colorAccent">@color/DeepPurple</item>
+    </style>
+
+    <style name="IndigoTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Indigo</item>
+        <item name="colorPrimaryDark">@color/Indigo</item>
+        <item name="colorAccent">@color/Indigo</item>
+    </style>
+
+    <style name="BlueTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/blue</item>
+        <item name="colorAccent">@color/blue</item>
+    </style>
+
+    <style name="LightBlueTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/LightBlue</item>
+        <item name="colorPrimaryDark">@color/LightBlue</item>
+        <item name="colorAccent">@color/LightBlue</item>
+    </style>
+
+    <style name="CyanTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Cyan</item>
+        <item name="colorPrimaryDark">@color/Cyan</item>
+        <item name="colorAccent">@color/Cyan</item>
+    </style>
+
+    <style name="TealTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Teal</item>
+        <item name="colorPrimaryDark">@color/Teal</item>
+        <item name="colorAccent">@color/Teal</item>
+    </style>
+
+    <style name="BlueGreyTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/blue_grey</item>
+        <item name="colorPrimaryDark">@color/dark_blue_grey</item>
+        <item name="colorAccent">@color/accent_blue_grey</item>
+    </style>
+
+    <style name="GreenTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/dark_green</item>
+        <item name="colorAccent">@color/accent_green</item>
+    </style>
+
+    <style name="LightGreenTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/LightGreen</item>
+        <item name="colorPrimaryDark">@color/LightGreen</item>
+        <item name="colorAccent">@color/LightGreen</item>
+    </style>
+
+    <style name="LimeTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Lime</item>
+        <item name="colorPrimaryDark">@color/Lime</item>
+        <item name="colorAccent">@color/Lime</item>
+    </style>
+
+    <style name="YellowTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Yellow</item>
+        <item name="colorPrimaryDark">@color/Yellow</item>
+        <item name="colorAccent">@color/Yellow</item>
+    </style>
+
+    <style name="AmberTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Amber</item>
+        <item name="colorPrimaryDark">@color/Amber</item>
+        <item name="colorAccent">@color/Amber</item>
+    </style>
+
+    <style name="OrangeTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Orange</item>
+        <item name="colorPrimaryDark">@color/Orange</item>
+        <item name="colorAccent">@color/Orange</item>
+    </style>
+
+    <style name="DeepOrangeTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/DeepOrange</item>
+        <item name="colorPrimaryDark">@color/DeepOrange</item>
+        <item name="colorAccent">@color/DeepOrange</item>
+    </style>
+
+    <style name="BrownTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorPrimaryDark">@color/dark_brown</item>
+        <item name="colorAccent">@color/accent_brown</item>
+    </style>
+
+    <style name="GreyTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Grey</item>
+        <item name="colorPrimaryDark">@color/Grey</item>
+        <item name="colorAccent">@color/Grey</item>
+    </style>
+
+    <style name="BlueGrayTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/BlueGray</item>
+        <item name="colorPrimaryDark">@color/BlueGray</item>
+        <item name="colorAccent">@color/BlueGray</item>
+    </style>
+
+    <style name="BlackTheme" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/Black</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/Black</item>
+    </style>
+
+    <style name="BaseDialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+        <item name="android:textColorSecondary">@color/hint</item>
+        <item name="android:windowEnterAnimation">@anim/abc_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/abc_fade_out</item>
+    </style>
+
+
+</resources>

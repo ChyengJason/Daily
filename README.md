@@ -18,6 +18,6 @@
 * 云备份
 * 以及其他一些
 
-![image](http://h.picphotos.baidu.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=3111a0eb0d7b020808c93fe452e283ee/1c950a7b02087bf455c6dfa7f5d3572c11dfcf52.jpg?referer=a933d61e0b338744c5d21a4c2930&x=.jpg)
-![image](http://f.picphotos.baidu.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=34360ea09b82d158bf8259b4b03168e5/b2de9c82d158ccbf89be3d741ed8bc3eb135417a.jpg?referer=777a6bf6d33f87948ae87d1eaf18&x=.jpg)
-![image](http://a.picphotos.baidu.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=1535f23427a446237acaa567a8190333/4e4a20a4462309f7e845255c750e0cf3d7cad652.jpg?referer=be4bad465443fbf29c3b93131230&x=.jpg)
+![image](https://github.com/ChyengJason/Daily/blob/master/picture%2Fpic4.jpg)
+![image](https://github.com/ChyengJason/Daily/blob/master/picture%2Fpic5.jpg)
+![image](https://github.com/ChyengJason/Daily/blob/master/picture%2Fpic6.jpg)
